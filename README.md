@@ -34,3 +34,6 @@ https://drive.google.com/drive/folders/14RrMDmcTrZvTik9sNmVn-uP1jltOWX2_?usp=dri
   * Pythonパッケージ
   * https://github.com/kazetatsu/zatopos-leader
 
+## 動作テスト
+波形表示
+https://www.youtube.com/watch?v=E2x_qtEzeyc
